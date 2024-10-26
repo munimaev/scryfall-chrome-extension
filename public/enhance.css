@@ -1,0 +1,20 @@
+td.enchanted-hight {
+  background-color: #db5e5e;
+}
+td.enchanted-hight > a.currency-usd {
+  color: #fff !important;
+}
+
+td.enchanted-mid {
+  background-color: #ffbe4a;
+}
+td.enchanted-mid  > a.currency-usd {
+  color: #000 !important;
+}
+
+td.enchanted-low {
+  background-color: #eeee94;
+}
+td.enchanted-low  > a.currency-usd {
+  color: #000 !important;
+}
