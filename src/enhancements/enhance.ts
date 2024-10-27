@@ -90,7 +90,6 @@ function enhanceCallback(low: number, mid: number, hight: number) {
         totalHight += price;
         el.parentElement?.classList.add("enchanted-mid");
       } else {
-        totalHight += price;
         el.parentElement?.classList.add("enchanted-hight");
       }
     }
