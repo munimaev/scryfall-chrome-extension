@@ -16,7 +16,7 @@ To install the Scryfall Enhancer Chrome extension locally:
 1. Clone or download this repository.
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** (toggle on in the upper-right corner).
-4. Click on **Load unpacked** and select the directory where the extension was downloaded.
+4. Click on **Load unpacked** and select "dist" in the directory where the extension was downloaded.
 5. The extension should now be installed and active.
 
 ## Usage
